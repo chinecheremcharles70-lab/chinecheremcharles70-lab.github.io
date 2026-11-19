@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.chinecheremcharles70_lab.twa",
+        "sha256_cert_fingerprints": ["C1:72:6D:BF:9E:72:51:BB:6B:E9:49:18:D6:EF:9B:AB:93:A8:7F:9F:52:68:D3:46:40:31:AA:94:75:8A:83:40"]
+      }
+    }]
 
